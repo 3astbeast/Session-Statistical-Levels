@@ -9,12 +9,6 @@
   Tracks Asia, London, and NY sessions independently, calculates historical range distributions, and projects statistical levels from the current session's open.
 </p>
 
-<p align="center">
-  <a href="https://buymeacoffee.com/dmwyzlxstj">
-    <img src="https://img.shields.io/badge/☕_Buy_Me_a_Coffee-FFDD00?style=flat-square&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee"/>
-  </a>
-</p>
-
 ---
 
 ## Credit
