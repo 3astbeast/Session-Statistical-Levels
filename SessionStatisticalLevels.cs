@@ -180,7 +180,7 @@ namespace NinjaTrader.NinjaScript.Indicators
         {
             if (State == State.SetDefaults)
             {
-                Description             = "Session Statistical Levels - plots percentile-based range levels from session open for Asia/London/NY sessions. Original Pine Script by @notprofessorgreen. NinjaTrader 8 conversion by @_hawkeye_13.";
+                Description             = "Session Statistical Levels - plots percentile-based range levels from session open for Asia/London/NY sessions. Original Pine Script by @notprofgreen. NinjaTrader 8 conversion by @_hawkeye_13.";
                 Name                    = "SessionStatisticalLevels";
                 Calculate               = Calculate.OnBarClose;
                 IsOverlay               = true;
