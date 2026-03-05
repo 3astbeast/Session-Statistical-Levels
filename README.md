@@ -17,6 +17,12 @@ Original TradingView Pine Script by **[@notprofessorgreen](https://twitter.com/n
 
 ---
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/3astbeast/Session-Statistical-Levels/refs/heads/main/MNQ_5Minute_20260305_141524.png" width="1000" alt="RedTail Toolbar Screenshot"/>
+</p>
+
+---
+
 ## Overview
 
 Session Statistical Levels answers a simple question: "Based on the last N sessions, how far is price likely to move from here?" It tracks three global trading sessions (Asia, London, NY) plus an optional custom session, records their ranges over a configurable lookback period, then projects percentile-based levels symmetrically above and below the current session's opening price. The result is a data-driven framework of expected range boundaries that updates automatically at the start of each session.
